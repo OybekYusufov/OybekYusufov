@@ -1,0 +1,29 @@
+body{
+    background-image: url(/OybekYusufov/image\(1\).jpg);
+    text-align: center;
+}
+p{
+    margin-left: 10%;
+    margin-right: 10%;
+    color: beige;
+}
+h1{
+    font-family: arial;
+    font-size: 2rem;
+    background: linear-gradient(
+           to right, #f3e7eb, #f1af82,
+            #716ff3, #f3df2d);
+            -webkit-text-fill-color: transparent;
+            -webkit-background-clip: text;
+}
+.central{
+    margin-top: 15%;
+    text-align: center;
+}
+.red_retangle{
+    height: 90px;
+    width: 190px;
+    margin: 150px auto 0 auto;
+    background-color: red;
+  }
+  
